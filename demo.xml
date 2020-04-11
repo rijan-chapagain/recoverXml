@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="st.css"?> 
+
+<course>
+     <name>Bachelor of Science</name>
+     <unit>
+          <title>ICT375 mobile and web app</title>
+          <lecturer>
+              <surname>Chapagain</surname>
+              <othernames>Hrijon</othernames>
+              <email>hrijon@student.murdoch.edu.au</email>
+          </lecturer>
+     </unit>
+</course>
